@@ -1,6 +1,6 @@
-# *Name of Project*
+# *personal website*
 
-*Add a project description*
+*Aspiring data analyst*
 
 The following features are implemented in the project:
 
@@ -12,7 +12,7 @@ The following features are implemented in the project:
 
 Here's a mockup and design of the project:
 
-![Alt text](images/example.png)
+![Alt text](example.png)
 
 ## Notes and Comments
 
